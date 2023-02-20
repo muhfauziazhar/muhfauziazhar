@@ -25,8 +25,6 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Adonis](https://img.shields.io/badge/-Adonis-333333?style=flat&logo=adonis)
-  ![Hapi](https://img.shields.io/badge/-Hapi-333333?style=flat&logo=hapi)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
