@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 📚 &nbsp; Studying front-end and back-end from Digitalent Kominfo, Jabar Coding Camp, Coursera, Dicoding Academy, Progate, etc.
-- 💼 &nbsp; Working as a Backend Developer Intern at Solve Education!
+- 💼 &nbsp; Working as Junior Frontend Developer at Erasys Consulting.
 - 🌱 &nbsp; Learning more about Cloud Developing from AWS Academy.
 - 📄 &nbsp; AWS Certified Developer - Associate.
 
@@ -14,7 +14,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
