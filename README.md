@@ -40,20 +40,9 @@
   ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
 
-<h3> ⭐ &nbsp;Statistics</h3>
-
-<br/>
-
-<a href="https://github.com/muhfauziazhar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhfauziazhar&layout=compact&theme=nightowl" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhfauziazhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fauzi%20Azhar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://muhfauziazhar.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-muhfauziazhar.com-blue?style=flat-square&logo=vercel"></a>
-<a href="mailto:muh.fauzee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muh.fauzee@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:halo@muhfauziazhar.com"><img alt="Email" src="https://img.shields.io/badge/Email-halo@muhfauziazhar.com-blue?style=flat-square"></a>
 </p>
